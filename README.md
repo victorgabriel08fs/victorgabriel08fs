@@ -1,4 +1,4 @@
-## Oiii! Eu sou Victor Gabriel
+## Olá! Eu sou Victor Gabriel
  <div>
   <a href="https://github.com/victorgabriel08fs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgabriel08fs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
