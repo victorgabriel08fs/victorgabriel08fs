@@ -1,5 +1,5 @@
 ## <h2>About Me</h2>
-Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.
+<p>Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.
 
 Skills
 Laravel: Extensive experience in Laravel development, including building RESTful APIs, system integrations, and performance optimization.
@@ -10,7 +10,7 @@ Database: Expertise in database design, query optimization, and management of bo
 
 APIs & Integrations: Developing RESTful APIs and third-party integrations to provide a seamless user experience.
 
-Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.
+Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.</p>
 
 Version Control: Proficient in Git and experience with platforms like GitHub and GitLab for efficient team collaboration.
 <a href="https://victordev-portfolio.vercel.app/" target="_blank">Meu portfólio</a>
