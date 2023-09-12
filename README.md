@@ -1,18 +1,18 @@
 ## <h2>About Me</h2>
-<p>Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.
+<p>Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.</p>
 
-Skills
-Laravel: Extensive experience in Laravel development, including building RESTful APIs, system integrations, and performance optimization.
+<h3>Skills</h3>
+<p>Laravel: Extensive experience in Laravel development, including building RESTful APIs, system integrations, and performance optimization.</p>
 
-Node.js: Proficient in developing scalable, high-performance applications with Node.js using frameworks like Express.js.
+<p>Node.js: Proficient in developing scalable, high-performance applications with Node.js using frameworks like Express.js.</p>
 
-Database: Expertise in database design, query optimization, and management of both relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
+<p>Database: Expertise in database design, query optimization, and management of both relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.</p>
 
-APIs & Integrations: Developing RESTful APIs and third-party integrations to provide a seamless user experience.
+<p>APIs & Integrations: Developing RESTful APIs and third-party integrations to provide a seamless user experience.</p>
 
-Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.</p>
+<p>Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.</p>
 
-Version Control: Proficient in Git and experience with platforms like GitHub and GitLab for efficient team collaboration.
+<p>Version Control: Proficient in Git and experience with platforms like GitHub and GitLab for efficient team collaboration.</p>
 <a href="https://victordev-portfolio.vercel.app/" target="_blank">Meu portfólio</a>
 <!--  <div>
   <a href="https://github.com/victorgabriel08fs">
