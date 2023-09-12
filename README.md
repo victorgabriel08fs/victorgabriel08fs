@@ -13,7 +13,7 @@
 <p>Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.</p>
 
 <p>Version Control: Proficient in Git and experience with platforms like GitHub and GitLab for efficient team collaboration.</p>
-<a href="https://victordev-portfolio.vercel.app/" target="_blank">Meu portfólio</a>
+<a href="https://victordev-portfolio.vercel.app/" target="_blank">My portfolio</a>
 <!--  <div>
   <a href="https://github.com/victorgabriel08fs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgabriel08fs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
