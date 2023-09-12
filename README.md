@@ -1,4 +1,18 @@
-## Olá! Eu sou Victor Gabriel
+## <h2>About Me</h2>
+Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.
+
+Skills
+Laravel: Extensive experience in Laravel development, including building RESTful APIs, system integrations, and performance optimization.
+
+Node.js: Proficient in developing scalable, high-performance applications with Node.js using frameworks like Express.js.
+
+Database: Expertise in database design, query optimization, and management of both relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.
+
+APIs & Integrations: Developing RESTful APIs and third-party integrations to provide a seamless user experience.
+
+Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.
+
+Version Control: Proficient in Git and experience with platforms like GitHub and GitLab for efficient team collaboration.
 <a href="https://victordev-portfolio.vercel.app/" target="_blank">Meu portfólio</a>
 <!--  <div>
   <a href="https://github.com/victorgabriel08fs">
@@ -19,6 +33,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/victorgabriel08fs/victorgabriel08fs/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/victorgabriel08fs/victorgabriel08fs/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
