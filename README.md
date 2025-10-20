@@ -32,7 +32,8 @@
   ##
  
 <div> 
- ![Snake animation](https://raw.githubusercontent.com/victorgabriel/victorgabriel/output/github-snake.svg)
+ <img src="https://raw.githubusercontent.com/victorgabriel/victorgabriel/output/github-snake.svg" alt="Snake animation" />
+
 
 
   <!--![Snake animation](https://github.com/victorgabriel08fs/victorgabriel08fs/blob/output/github-contribution-grid-snake.svg)-->
