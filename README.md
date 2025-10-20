@@ -32,7 +32,7 @@
   ##
  
 <div> 
- <img src="https://raw.githubusercontent.com/victorgabriel/victorgabriel/output/github-snake.svg" alt="Snake animation" />
+ 
 
 
 
