@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Banner">
+</picture>
+
 ## <h2>About Me</h2>
 <p>Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.</p>
 
