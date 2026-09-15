@@ -35,7 +35,7 @@
  
 
 
-
-  <!--![Snake animation](https://github.com/victorgabriel08fs/victorgabriel08fs/blob/output/github-contribution-grid-snake.svg)-->
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+![Snake animation](https://github.com/victorgabriel08fs/victorgabriel08fs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
