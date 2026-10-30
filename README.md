@@ -1,12 +1,12 @@
 ## Olá! 👋 Sou o Victor Gabriel
 
-Desenvolvedor full-stack, graduado em Sistemas de Informação. Construo aplicações SaaS multi-tenant com Laravel e React + TypeScript, e hoje também trabalho com **NestJS** no back-end, **Next.js** na web e **React Native** no mobile.
+**Desenvolvedor full-stack pleno**, graduado em Sistemas de Informação. Trabalho com **NestJS** e **Laravel** no back-end, **React** e **Next.js** na web e **React Native** no mobile, com TypeScript no dia a dia.
 
-O que mais me interessa é a parte que sustenta o produto: isolamento de dados por cliente, APIs bem documentadas, filas confiáveis e ambientes Docker que sobem igual em qualquer máquina.
+O que mais me interessa é a parte que sustenta o produto: isolamento de dados por cliente em SaaS multi-tenant, APIs bem documentadas, filas confiáveis e ambientes Docker que sobem igual em qualquer máquina.
 
 ### O que eu uso
 
-- **Back-end:** Laravel (PHP), NestJS e Node.js
+- **Back-end:** NestJS, Node.js e Laravel (PHP)
 - **Front-end:** React, Next.js (App Router) e TypeScript
 - **Mobile:** React Native
 - **Dados:** MySQL, MariaDB, Redis
@@ -18,10 +18,10 @@ O que mais me interessa é a parte que sustenta o produto: isolamento de dados p
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="React / React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
