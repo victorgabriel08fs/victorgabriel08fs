@@ -1,36 +1,40 @@
-## <h2>About Me</h2>
-<p>Hello! 👋 I'm a backend developer passionate about crafting robust and scalable solutions. My expertise lies in working with Laravel and Node.js, delivering exceptional user experiences. With a solid background in web development, I'm constantly seeking ways to enhance my skills and contribute to challenging projects.</p>
+## Olá! 👋 Sou o Victor Gabriel
 
-<h3>Skills</h3>
-<p>Laravel: Extensive experience in Laravel development, including building RESTful APIs, system integrations, and performance optimization.</p>
+Desenvolvedor full-stack, graduado em Sistemas de Informação. Construo aplicações SaaS multi-tenant com Laravel e React + TypeScript, e hoje também trabalho com **NestJS** no back-end, **Next.js** na web e **React Native** no mobile.
 
-<p>Node.js: Proficient in developing scalable, high-performance applications with Node.js using frameworks like Express.js.</p>
+O que mais me interessa é a parte que sustenta o produto: isolamento de dados por cliente, APIs bem documentadas, filas confiáveis e ambientes Docker que sobem igual em qualquer máquina.
 
-<p>Database: Expertise in database design, query optimization, and management of both relational (MySQL, PostgreSQL) and NoSQL (MongoDB) databases.</p>
+### O que eu uso
 
-<p>APIs & Integrations: Developing RESTful APIs and third-party integrations to provide a seamless user experience.</p>
+- **Back-end:** Laravel (PHP), NestJS e Node.js
+- **Front-end:** React, Next.js (App Router) e TypeScript
+- **Mobile:** React Native
+- **Dados:** MySQL, MariaDB, Redis
+- **Infra:** Docker, nginx, Traefik, Vercel
+- **Qualidade:** PHPUnit, OpenAPI, Conventional Commits, Git / GitHub
 
-<p>Testing & Code Quality: Implementing unit tests and continuous integration to ensure code robustness and quality.</p>
+<div>
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="React / React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
 
-<p>Version Control: Proficient in Git and experience with platforms like GitHub and GitLab for efficient team collaboration.</p>
-<a href="https://victordev-portfolio.vercel.app/" target="_blank">My portfolio</a>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Victor-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div> 
-  
-  ##
- 
-<div> 
- 
+### Onde me encontrar
 
+🌐 [Meu portfólio](https://victordev-portfolio.vercel.app/)
+
+##
+
+<div>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 <!--![Snake animation](https://github.com/victorgabriel08fs/victorgabriel08fs/blob/output/github-contribution-grid-snake.svg)-->
- 
+
 </div>
